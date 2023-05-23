@@ -1,7 +1,7 @@
 # Sorting Algoritms Graphical Interpretation
 Graphical visualisation of various sorting algoritms writed in C++ with OpenGL (GLUT).
 Multithread is used. No mutex and atomic variables is used, only manual locking and unlocking variables (by one bool) is changed when specific variable is shared. 
-![](https://github.com/Mestuq/Graphical-Visualisation-Of-Sorting-Algoritms/animation.gif)
+![](https://github.com/Mestuq/Graphical-Visualisation-Of-Sorting-Algoritms/blob/main/Animation.gif)
 
 # Used libraries in this project
 Some are alredy included in the project:
@@ -11,4 +11,8 @@ Some are alredy included in the project:
 
 # Documentation
 Documentation in Polish language is included in this project.
-https://github.com/Mestuq/Graphical-Visualisation-Of-Sorting-Algoritms/Documentation.pdf
+https://github.com/Mestuq/Graphical-Visualisation-Of-Sorting-Algoritms/blob/main/Documentation.pdf
+
+# See also 
+See also binary tree implementation under the link below:
+https://github.com/Tytan1996/Algorytmy
